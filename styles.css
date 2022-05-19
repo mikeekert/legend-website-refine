@@ -1,0 +1,14 @@
+.blep {
+    background-image: url(https://i.kym-cdn.com/entries/icons/original/000/037/171/cover2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-family: monospace;
+    text-align: center;
+    border: 3px solid;
+}
+
+.mlem {
+    background-color:darkcyan;
+    text-align: justify;
+    font-family: monospace;
+}
