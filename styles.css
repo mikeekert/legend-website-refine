@@ -4,11 +4,12 @@
     background-repeat: no-repeat;
     font-family: monospace;
     text-align: center;
-    border: 3px solid;
 }
 
 .mlem {
-    background-color:darkcyan;
+    background-color:beige;
     text-align: justify;
     font-family: monospace;
 }
+
+
