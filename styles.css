@@ -3,7 +3,113 @@
 }
 
 .logo {
+    position: fixed;
+    display: flex;
+    margin-left: 300px;
+    top: 8px;
+    
+    
+}
+
+.body {
+    background-color: #201f1f;
+}
+
+.main {
+    background-color: whitesmoke;
+    margin-left: .5%;
+    margin-right: .5%;
+    min-height: 92%;
+    border-radius: 5px;
+}
+
+ul {
+    background-color: #201f1f;
+    display: block;
     position: relative;
-    left:400px;
+    top:1px;
+    right:5px;
+    left: 5px;
+    padding: .5px;
+    overflow: hidden;
+    text-decoration: none;
+    height: 50px;
+
+}
+
+li {
+    float:right;
+}
+
+li a:hover {
+    color:rgb(0, 238, 255);
+}
+
+li a:active {
+    text-decoration: underline;
+}
+
+li a {
+    font-family: 'Josefin Sans', sans-serif;
+    display: block;
+    font-size: 20px;
+    position: relative;
+    margin-right: 350px;
+    top: 20px;
+    color: whitesmoke;
+    text-align: center;
+    padding-left: 5%;
+    text-decoration: none;
+}
+
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    display: block;
+    font-size: 15px;
+    position: relative;
+    margin-left: 350px;
+    top: 200px;
+
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    display: block;
+    font-size: 35px;
+    position:relative;
+    margin-left: 350px;
+    top: 230px;
+}
+
+p {
+    font-family: 'Open Sans';
+    color: #201f1f;
+    position:relative;
+    left: 350px;
+    top:240px;
+    width:500px;
+    text-align: justify;
+    background-color: whitesmoke;
+}
+
+html {
+    border-radius: 5px;
+    background-color: #201f1f;
+}
+
+.nameintro {
+    display:block;
+    position:relative;
+    width:6%;
+    height:auto;
+    top: 220px;
+    margin-left: 350px;
+    border-top: 2px solid;
+}
+
+p {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.3em;
+    color: black;
 }
 
